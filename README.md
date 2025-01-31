@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tamminhdiep97
-- 👀 I’m interested in Machine Learning, Deep Learning and Image processing
-- 🌱 I’m currently learning Advance Deep Learning
-- 💞️ I’m looking to collaborate on Deep Learning and Image processing workfield
+- 👋 Hi, I’m Tam
+- I like to code with neovim
+
+RE-INVENT THE HELL OUT OF THE WHEEL
 - 📫 How to reach me: Email: tamdiepminh97@gmail.com
 
 <!---
